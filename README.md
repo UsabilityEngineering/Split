@@ -1,14 +1,14 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# SPLIT
 
 !!!Brief introduction to the project's vision!!!
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Javier Santillan](https://github.com/JavierSatan)** - !!!List of Person A's primary contributions!!!
+* **[Marco Garcia](https://github.com/Wataru-Oshima-Tokyo)** - !!!List of Person B's primary contributions!!!
+* **[Wataru Oshima](https://github.com/marcogarciamuro)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
@@ -17,9 +17,25 @@
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
-# Phase 1: Requirements Gathering
+## Phase 1: Requirements Gathering
 
-**Executive Summary**
+# Introduction
+
+# Methods
+
+# Findings
+
+# Caveats
+
+# Conclusions
+
+# Personas
+
+# Scenarios
+
+# Supplementary Materials
+
+# Executive Summary
 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
