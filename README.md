@@ -1,14 +1,12 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # SPLIT
 
-!!!Brief introduction to the project's vision!!!
+Allowing people to make manual reoccuring payments for anything
 
 ## UX Team Members
 
-* **[Javier Santillan](https://github.com/JavierSatan)** - !!!List of Person A's primary contributions!!!
-* **[Marco Garcia](https://github.com/Wataru-Oshima-Tokyo)** - !!!List of Person B's primary contributions!!!
-* **[Wataru Oshima](https://github.com/marcogarciamuro)** - !!!List of Person C's primary contributions!!!
+* **[Javier Santillan](https://github.com/JavierSatan)**
+* **[Marco Garcia](https://github.com/Wataru-Oshima-Tokyo)**
+* **[Wataru Oshima](https://github.com/marcogarciamuro)**
 
 # User-Centered Design Artifacts
  
