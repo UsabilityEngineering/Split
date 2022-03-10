@@ -17,20 +17,6 @@ Allowing people to make manual reoccuring payments for anything
 
 ## Phase 1: Requirements Gathering
 
-# Introduction
-
-# Methods
-
-# Findings
-
-# Caveats
-
-# Conclusions
-
-# Personas
-
-# Scenarios
-
 # Supplementary Materials
 
 # Executive Summary
