@@ -3,10 +3,15 @@
 
 # Introduction
 Phase I: Requirements Gathering
+
 Team Name: SPLIT
+
 Team Members:
+
 Javier Santillan(https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)
+
 Wataru Oshima(https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)
+
 Marco Garcia(https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)
 
 
@@ -43,5 +48,5 @@ People want there to be an auto payments feature on the app, by a large margin. 
 Analyzing a couple of the questions, people forget when someone owes them a payment. More than 70% of the people surveyed forget about money owed to them. However this conflicts with another response on the survey saying they trust people to make these payments. It seems people tend to trust other people to give them the money when confronted to do so, but they tend to forget that these payments exist. This information is vital as this is the problem space we are trying to solve for people. 
 
 
-Caveats: 
+# Caveats: 
 Most of our information has come from our fellow peers and friends and family, so there may be some bias to our information. However our app does involve money and questions are quite open ended so we hope that people will feel more incentivized to answer honestly. In addition, the participants were mostly from Chico, CA, a small college town that perhaps does not encapsulate other possible users. 
