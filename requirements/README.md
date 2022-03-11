@@ -41,4 +41,4 @@ Most of our information has come from our fellow peers and friends and family, s
 
 # Supplmentary Material
 [Survey](phase1_gathering/survey.pdf)
-[Interview Questions](phase1_gatherings/Interview Questions.pdf)
+[Interview Questions](phase1_gatherings/Interview_Questions.pdf)
