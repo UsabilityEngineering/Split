@@ -17,7 +17,6 @@ Allowing people to make manual reoccuring payments for anything
 
 ## Phase 1: Requirements Gathering
 [Phase1](./phase1_gathering)
-# Supplementary Materials
 
 # Executive Summary
 
