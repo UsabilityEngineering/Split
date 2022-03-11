@@ -11,7 +11,7 @@ Allowing people to make manual reoccuring payments for anything
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* (Personas and Scenarios)[phase1_gatherings/Personas and Scenarios.pdf]
+* [Personas and Scenarios](phase1_gatherings/Personas and Scenarios.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
