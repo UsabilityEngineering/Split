@@ -4,19 +4,18 @@ Allowing people to make manual reoccuring payments for anything
 
 ## UX Team Members
 
-* **[Javier Santillan](https://github.com/JavierSatan)**
-* **[Marco Garcia](https://github.com/Wataru-Oshima-Tokyo)**
-* **[Wataru Oshima](https://github.com/marcogarciamuro)**
+* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)**
+* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)**
+* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)**
 
 # User-Centered Design Artifacts
  
 !!!For the following, add a PDF of your artifact to the repository and replace the # with the file name!!!
-* [Personas and Scenarios](#) - Coming soon!
+* [Personas and Scenarios](phase1_gatherings/Personas and Scenarios.pdf)
 * [Wireframes](#) - Coming soon!
 * [Prototype](#) - Coming soon!
 
 ## Phase 1: Requirements Gathering
-[Phase1](./phase1_gathering)
 
 # Executive Summary
 
@@ -25,7 +24,7 @@ Allowing people to make manual reoccuring payments for anything
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
 
-[Full phase 1 report](requirements/)
+[Full phase 1 report](requirements/README.md)
 
 # Phase 2: Interaction Design
 
