@@ -1,20 +1,5 @@
 ## Requirements Gathering
 
-
-# Introduction
-Phase I: Requirements Gathering
-
-Team Name: SPLIT
-
-Team Members:
-
-Javier Santillan(https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)
-
-Wataru Oshima(https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)
-
-Marco Garcia(https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)
-
-
 # Methods
 The primary and secondary methods that we used to form user requirements were a survey and an interview. The main motive behind using a survey is because it is able to gather a lot of quantitative information about possible users. We created and distributed the survey through Google Forms which is very accessible and great at condensing results. In addition to the survey, we decided to interview people as it would fill in gaps and provide answers to questions that can’t necessarily be answered through a survey. The use of interviewing people would also provide us with the complementary qualitative data that a survey doesn’t quite provide. We received 31 responses for the survey while we gathered 2 interview responses. 
 
@@ -50,3 +35,10 @@ Analyzing a couple of the questions, people forget when someone owes them a paym
 
 # Caveats
 Most of our information has come from our fellow peers and friends and family, so there may be some bias to our information. However our app does involve money and questions are quite open ended so we hope that people will feel more incentivized to answer honestly. In addition, the participants were mostly from Chico, CA, a small college town that perhaps does not encapsulate other possible users. 
+
+# Personas and Scenarios
+(Personas and Scenarios)[phase1_gatherings/Personas and Scenarios.pdf]
+
+# Supplmentary Material
+(Survey)[phase1_gatherings/survey.pdf]
+(Interview Questions)[phase1_gatherings/Interview Questions.pdf]
