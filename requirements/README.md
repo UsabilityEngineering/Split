@@ -40,6 +40,6 @@ Most of our information has come from our fellow peers and friends and family, s
 [Personas and Scenarios](../phase1_gathering/Personas_Scenarios.pdf)
 
 # Supplmentary Material
-[Survey](../phase1_gathering/survey.pdf)
+[Survey](../phase1_gathering/Survey.pdf)
 
 [Interview Questions](../phase1_gathering/Interview_Questions.pdf)
