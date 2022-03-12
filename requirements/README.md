@@ -37,9 +37,9 @@ Analyzing a couple of the questions, people forget when someone owes them a paym
 Most of our information has come from our fellow peers and friends and family, so there may be some bias to our information. However our app does involve money and questions are quite open ended so we hope that people will feel more incentivized to answer honestly. In addition, the participants were mostly from Chico, CA, a small college town that perhaps does not encapsulate other possible users. 
 
 # Personas and Scenarios
-[Personas and Scenarios](phase1_gatherings/Personas_Scenarios.pdf)
+[Personas and Scenarios](phase1_gathering/Personas_Scenarios.pdf)
 
 # Supplmentary Material
 [Survey](phase1_gathering/survey.pdf)
 
-[Interview Questions](phase1_gatherings/Interview_Questions.pdf)
+[Interview Questions](phase1_gathering/Interview_Questions.pdf)
