@@ -29,7 +29,7 @@ We surveyed and interviewed college students to understand their preferences and
 We interviewed college students to understand the specifics between their monthly shared bills
 * 100% stated that they share the cost of utility bills with roommates and the compensation of their portions is done through Venmo
 * 50% stated that they share a video streaming service subscription with someone else which their share the cost for
-* 100% stated that they often forget about payments that others have not made to them and would have liked for them to be reminded without confrontation
+* 50% stated that they often forget about payments that others have not made to them and would have liked for them to be reminded without confrontation
 
 From the requirements gathering, we identified common user needs
 * Users want a way to be notified/reminded of pending payments that people have not compensated them for
