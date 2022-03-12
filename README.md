@@ -4,9 +4,9 @@ Allowing people to make manual reoccuring payments for anything
 
 ## UX Team Members
 
-* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)**
-* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)**
-* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)**
+* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)** - Javier collaborated on the creation of research method questions and the report 
+* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)** - Marco created the personas and scenarios and collaborated on the report
+* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)** - Wataru conducted user interviews and collaborated on the report
 
 # User-Centered Design Artifacts
  
