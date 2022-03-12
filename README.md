@@ -34,6 +34,7 @@ We interviewed college students to understand the specifics between their monthl
 From the requirements gathering, we identified common user needs
 * Users want a way to be notified/reminded of pending payments that people have not compensated them for
 * Users are neither comfortable nor uncomfortable with confronting others for payments that are owed to them, so this app idea in general would solve the problem space for those that find it uncomfortable.
+* They are already satisfied with other payment app features and interfaces so tailoring our app after such apps will provide them with a great deal of familiarity and learnability.
 * Security and data privacy is a big concern so that should be a big focus in the development of this app
 
 
