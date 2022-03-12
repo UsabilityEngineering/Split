@@ -20,7 +20,7 @@ When asked about being concerned about sharing bank/payment information within a
 
 
 # Conclusions
-From our findings we have found out that people really want to know when payments are coming up, whether it be by a calendar(provided by the app) or by notification, this lets us know that we should create a persona that needs notifications/reminders from the application to solve a problem in their life which should be modeled in a scenario.
+From our findings we have found out that people really want to know when payments are coming up, whether it be by a calendar (provided by the app) or by notification, this lets us know that we should create a persona that needs notifications/reminders from the application to solve a problem in their life which should be modeled in a scenario.
 
 People want to have auto payments by a huge margin. This tells people want to be informed but to be distant from the monthly 
 
