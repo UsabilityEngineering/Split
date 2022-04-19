@@ -43,7 +43,7 @@ From the requirements gathering, we identified common user needs
 
 # Phase 2: Interaction Design
 
-**Executive Summary**
+## Executive Summary
 
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
