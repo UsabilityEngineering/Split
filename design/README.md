@@ -4,4 +4,4 @@
 
 ![image info](Screenshot 2022-04-19 134109.png)
 
-<img src="(./Screenshot 2022-04-19 134109.png" width = "200">
+<img src="Screenshot 2022-04-19 134109.png" width = "200">
