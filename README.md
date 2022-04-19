@@ -11,7 +11,7 @@ Allowing people to make manual reoccuring payments for anything
 # User-Centered Design Artifacts
  
 * [Personas and Scenarios](phase1_gathering/Personas_Scenarios.pdf)
-* [Wireframes](phase2_gathering/wireframes.pdf)
+* [Wireframes](phase2_gathering/Wireframes.pdf)
 * [Prototype](https://xd.adobe.com/view/39886b66-3848-4346-a143-738afced029a-6cdb/?fullscreen&hints=on) 
 
 # Phase 1: Requirements Gathering
