@@ -16,7 +16,7 @@ Allowing people to make manual reoccuring payments for anything
 
 # Phase 1: Requirements Gathering
 
-# Executive Summary
+## Executive Summary
 This application's goal is to make it **easier and more convinient for people who split monthly bills or payments.** People with roommates or even sometimes siblings share the costs for things like rent, utility bills, or streaming service subscriptions. In this requirements gathering phase, we explored our major target audience, colleges students, and what kind of issues and desires they might have regarding this problem space.
 
 We surveyed and interviewed college students to understand their preferences and concerns
