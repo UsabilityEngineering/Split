@@ -18,7 +18,7 @@ In the group tab, Users can see all the groups they currently belong to which gi
 
 <img src="Screenshot 2022-04-19 134519.png" width = "200">
 
-A user can click on a group so they can see the details of the group. Information such as group members, what is the total payment amount, and members' payment percentages are displayed. There are also controls to remove, or add more users to the group, and set a new equal percent of the total payment amount. We created an "edit" button that lets group owners control the group, by refining group members and payment logistics. At the bottom of the page, we provided a button to navigate users back to the main group tab, in the case that they are done using the page, or never intended to visit it.
+A user can click on a group so they can see the details of the group. Information such as group members, what is the total payment amount, and members' payment percentages are displayed. There are also controls to remove, or add more users to the group, and set a new equal percent of the total payment amount. We created an "edit" button that lets group owners control the group by refining group members and payment logistics. At the bottom of the page, we provided a button to navigate users back to the main group tab, in the case that they are done using the page, or never intended to visit it.
 
 
 <img src="Screenshot 2022-04-19 134538.png" width = "200">
