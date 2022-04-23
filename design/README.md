@@ -10,7 +10,7 @@ In the case that users do not have an account yet, they can click the reigster b
 
 <img src="Screenshot 2022-04-19 134435.png" width = "200">
 
-Once a user is on the home page they have a variety of controls and widgets available to them. They have a search bar to look for a person or group that exists within the app. Users also have a calender that displays any upcoming payments in the future if they already belong to a group. The notification button sits on top to notify the user when someone invites them to a split group, someone leaves a group, etc. The reasoning behind the components on this home page is that those are what most people are going to want to view when they use the app. This was based off the personas and scenarios we previously created, in which users want to know when they have upcoming payments due instead of having to mentally remember such payments along with many other things they might have going on in their lives.
+Once a user is on the home page they have a variety of controls and widgets available to them. They have a search bar to look for a person or group that exists within the app. Users also have a calender that displays any upcoming payments in the future, granted they belong to a group. Users could cycle through months to view previous months' and near future months' payments. The notification button sits on top to notify the user when someone invites them to a split group, someone leaves a group, etc. The reasoning behind the components on this home page is that those are what most people are going to want to view when they use the app. This was based off the personas and scenarios we previously created, in which users want to know when they have upcoming payments due instead of having to mentally remember such payments along with many other things they might have going on in their lives.  
 
 <img src="Screenshot 2022-04-19 134459.png" width = "200">
 
@@ -27,7 +27,7 @@ If a user decides to add a new member to a group or edit a group they are given 
 
 <img src="Screenshot 2022-04-19 134613.png" width = "200">
 
-The notification button is there to tell a user that someone is inviting them to a group, or someone is leaving/ been kicked from a group if someone changed a setting users can agree or disagree with that change, etc. This will be a way for a user to see everything that is happening within their groups so they are not in the dark about changes that will affect them.
+The notification button is there to tell a user that someone is inviting them to a group, or someone is leaving/ been kicked from a group if someone changed a setting users can agree or disagree with that change, etc. This will be a way for a user to see everything that is happening within their groups so they are not in the dark about changes that will affect them. It can also notify group owners if any group members have not made their monthly payment in a timely manner and if any payments are coming up soon. This targets one of the scenarios from the persona Claudia we created in which she wished her roommate would compensate her for their rent payment at a reasonable time, instead of paying her weeks later. This notification system would remind her roommate that she has an upcoming payment.
 
 <img src="Screenshot 2022-04-19 134632.png" width = "200">
 
