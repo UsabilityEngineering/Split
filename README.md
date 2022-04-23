@@ -44,24 +44,24 @@ From the requirements gathering, we identified common user needs
 # Phase 2: Interaction Design
 
 ## Executive Summary
-The goal of this design phase was to create a form of visualizing and implementing the design of the application Split. To do this we created wireframes because they allow us to visualize the layout of where the content should be as well as solidify the features that are going to be available. In addition to wireframes. we created a click-through prototype because it creates a strong idea of how the application should react when particular items are interacted with. This creates flows that users can or should follow to avoid them running into errors. 
+The goal of this design phase was to create **advanced interfaces based on user research such that they would meet users' needs and mental models** for the application Split. To do this **we created wireframes** because they **allow us to visualize the layout of where the content should** be as well as **solidify the features that are going to be available**. In addition to wireframes. **we created a click-through prototype** because it **creates a strong idea of how the application should react when particular items are interacted with**. This creates flows that users can or should follow to avoid them running into errors. 
 
 Main Focuses:
-* Identify the most important features of the app
-* Keep interfaces simple and efficient by creating a minimalist design
-* Foster familiarity through the use of conventional icons and common component placement
-* Limit user confusion and errors
+* **Identify the most important features** to meet user's needs
+* **Keep interfaces simple and efficient** by creating a minimalist design
+* **Foster familiarity** through the use of conventional icons and common component placement
+* **Limit user confusion and errors**
 
 Breakdown of Interfaces:
-* The main navigation tool that allows users to visit the different features of the application, is the toolbar at the bottom of the screen
-* The first one is the login/registration component. If the user has not previously made an account, we have a button to redirect them to the registration page.
-* The home page displays a calendar in which a user can see upcoming payments that they are due to pay or receive. Users can navigate to different months in the calendar view to see previous or upcoming months’ payments.
-* The group page can be visited at any time using the toolbar, which is used to view, edit, and delete groups. A group can be defined as a collection of people who share a recurring cost for a service, and are assigned a percentage of that cost, which is to be paid monthly. 
-* The account settings page is available to view user account information, view currently available payment methods, add payment methods, configure notification settings, and log out. 
-* All main application pages have a notification button where users can see any groups that they have been invited to or any other app-related notifications. 
+* The **main navigation tool** that allows users to visit the different features of the application, **is the toolbar at the bottom of the screen**
+* The first one is the **login/registration component**. If the user has not previously made an account, we have a button to redirect them to the registration page.
+* The **home page displays a calendar in which a user can see upcoming payments that they are due to pay or receive**. Users can navigate to different months in the calendar view to see previous or upcoming months’ payments.
+* The **group page** can be visited at any time using the toolbar, which **is used to view, edit, and delete groups**. A group can be defined as **a collection of people who share a recurring cost for a service**, and are assigned a percentage of that cost, which is to be paid monthly. 
+* The **account settings** page is available to **view user account information**, **view currently available payment methods**, **add payment methods**, **configure notification settings**, and **log out**. 
+* All **main application pages have a notification button** where **users can see any groups that they have been invited to, upcoming payments, late payments**, or any other app-related notifications. 
 
 
-After creating these design artifacts, we have a firm idea of how we want to continue the interfaces of the application. Our goal now is to create a more detailed click-through prototype that contains more style and interaction with the controls that we are providing. 
+After creating these design artifacts, **we have a firm idea of how we want to continue the interfaces of the application**. Our **goal now is to create a more detailed click-through prototype** that contains more style and interaction with the controls that we are providing. 
 
 [Full phase 2 report](design/)
 
