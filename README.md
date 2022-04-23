@@ -4,9 +4,9 @@ Allowing people to make manual reoccuring payments for entertainment services, b
 
 ## UX Team Members
 
-* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)** - Javier collaborated on the creation of research method questions and the report 
-* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)** - Marco created the personas and scenarios and collaborated on the report
-* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)** - Wataru conducted user interviews and collaborated on the report
+* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)** - Javier collaborated on the creation of research method questions, the user-research report, the wireframes and the interaction design report.
+* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)** - Marco created the personas and scenarios, collaborated on the user-research report, worked on wireframes and prototype, and interaction design report.
+* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)** - Wataru conducted user interview, collaborated on the user-research report, and worked on wireframes and prototype.
 
 # User-Centered Design Artifacts
  
