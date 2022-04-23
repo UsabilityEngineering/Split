@@ -2,7 +2,7 @@
 
 <img src="Screenshot 2022-04-19 134109.png" width = "200">
 
-With our login page, we kept it simple and familiar with users being able to type in their account email and password to then login into our app. They can either log in normally and start doing what they need to do with our app, or create an account to start using the app. Because it is necessary to be logged in, to use the main features of our application, we decided to make it the landing interface.
+With our login page, we kept it simple and familiar with users being able to type in their account email and password to then login into our app. They can either log in normally and start doing what they need to do with our app, or create an account to start using the app. Because it is necessary to be logged in to use the main features of our application, we decided to make it the landing interface.
 
 <img src="Screenshot 2022-04-19 134412.png" width = "200">
 
