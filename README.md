@@ -1,6 +1,6 @@
 # SPLIT
 
-Allowing people to make manual reoccuring payments for anything
+Allowing people to make manual reoccuring payments for entertainment services, bills, etc.
 
 ## UX Team Members
 
