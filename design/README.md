@@ -6,7 +6,7 @@ With our login page, we kept it simple and familiar with users being able to typ
 
 <img src="Screenshot 2022-04-19 134412.png" width = "200">
 
-When users decide to make an account they are prompted to give the required information to start using the app. They can hit register after filling out the required information and be taken to the home page, or they can hit cancel and be taken back to the login page. We wanted to make sure that we added controls that would be able to correct user errors like in the case that they unknowingly touched the register button, or maybe they realized they already had an account and want to go back to the login page.
+In the case that users do not have an account yet, they can click the reigster button where they will be redirected a registration form that prompts for the required information to start using the app. They can hit register after filling out the required information and be taken to the home page, or they can hit cancel and be taken back to the login page. We wanted to make sure that we added controls that would be able to correct user errors like in the case that they unknowingly touched the register button, or maybe they realized they already had an account and want to go back to the login page.
 
 <img src="Screenshot 2022-04-19 134435.png" width = "200">
 
