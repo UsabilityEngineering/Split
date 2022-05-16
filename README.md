@@ -67,8 +67,10 @@ After creating these design artifacts, **we have a firm idea of how we want to c
 
 # Phase 3: Usability Evaluation
 
-**Executive Summary**
+**Executive Summary
 
+Our goal in this phase was to get real people to test out our working User prototype so we can further improve our design. We created a Protocol and asked the participants
+to achieve specific tasks. We then ask the participants how easy or hard it was or what their thoughts on using the prototype as well as thoughts on the product itself.
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
