@@ -69,7 +69,7 @@ After creating these design artifacts, **we have a firm idea of how we want to c
 
 # Phase 3: Usability Evaluation
 
-**Executive Summary
+## Executive Summary
 
 Our goal in this phase was to get participants to test out our higher-fidelity, click-through prototype by conducting usability tests. This was done with the intent to further improve our design and app's user experience. We created a usability test protocol and asked the participants that included a couple of tasks on which we observed and noted their process and exprerience with. We then prompted them to give us feedback on their experience of attempting to achieve the tasks. Lastly, we analyzed the usability test results to extrapolate trends and patterns.
 
