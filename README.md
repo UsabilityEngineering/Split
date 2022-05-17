@@ -81,4 +81,10 @@ Tasks Conducted:
 * Create a group and add 3 other members to it.
 * Add someone new to an already existing group and individually change the portion of the bill they are responsible for.
 
+After reviewing the results for the usability test that we conducted on five participants, we are able to deduce some conclusions.
+* 100% go about paying or receiving a recurring monthly payment through apps like Venmo, Zelle, Cashapp, etc.
+* 75% fully succeeded in creating a new group and adding members to it. 
+* 100% were able to add a member to an already existing group.
+* 60% correctly edited a specific group member's financial contribution to the group payment.
+
 [Full phase 3 report](evaluation/)
