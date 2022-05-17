@@ -1,6 +1,6 @@
 # SPLIT
 
-Allowing people to make manual reoccuring payments for entertainment services, bills, etc.
+Allows users to facilitate the task of splitting bill costs for reoccuring payments for entertainment services, living utilities, rent, etc.
 
 ## UX Team Members
 
