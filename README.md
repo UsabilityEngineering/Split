@@ -4,9 +4,9 @@ Allows users to facilitate the task of splitting bill costs for reoccuring payme
 
 ## UX Team Members
 
-* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)** - Javier collaborated on the creation of research method questions, the user-research report, the wireframes and the interaction design report, created usability test protocol, and conducted usability tests.
-* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)** - Marco created the personas and scenarios, collaborated on the user-research report, worked on wireframes and prototype, worked on the interaction design report, conducted usability tests, and collaborated on usability test report.
-* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)** - Wataru conducted user interview, collaborated on the user-research report, worked on wireframes and prototype, created usability test tasks, and conducted usability tests.
+* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)** - Javier collaborated on the creation of research method questions, the user-research report, the wireframes and the interaction design report, created usability test protocol and conducted usability tests.
+* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)** - Marco created the personas and scenarios, collaborated on the user-research report, worked on wireframes and prototypes, worked on the interaction design report, conducted usability tests, and collaborated on usability test report.
+* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)** - Wataru conducted user interview, collaborated on the user-research report, worked on wireframes and prototypes, created usability test tasks, and conducted usability tests.
 
 # User-Centered Design Artifacts
  
@@ -30,7 +30,7 @@ We surveyed and interviewed college students to understand their preferences and
 
 We interviewed college students to understand the specifics between their monthly shared bills
 * 100% stated that they share the cost of utility bills with roommates and the compensation of their portions is done through Venmo
-* 50% stated that they share a video streaming service subscription with someone else which their share the cost for
+* 50% stated that they share a video streaming service subscription with someone else and share the total cost
 * 50% stated that they often forget about payments that others have not made to them and would have liked for them to be reminded without confrontation
 
 From the requirements gathering, we identified common user needs
@@ -71,7 +71,7 @@ After creating these design artifacts, **we have a firm idea of how we want to c
 
 ## Executive Summary
 
-Our goal in this phase was to get participants to test out our higher-fidelity, click-through prototype by conducting usability tests. This was done with the intent to further improve our design and app's user experience. We created a usability test protocol and asked the participants that included a couple of tasks on which we observed and noted their process and exprerience with. We then prompted them to give us feedback on their experience of attempting to achieve the tasks. Lastly, we analyzed the usability test results to extrapolate trends and patterns.
+Our goal in this phase was to get participants to test out our higher-fidelity, click-through prototype by conducting usability tests. This was done with the intent to further improve our design and the app's user experience. We created a usability test protocol and asked the participants that included a couple of tasks on which we observed and noted their process and exprerience with. We then prompted them to give us feedback on their experience of attempting to achieve the tasks. Lastly, we analyzed the usability test results to extrapolate trends and patterns.
 
 Background Questions:
 * How did you go acbout making or receving a payment to someone with whom you share a monthly service or payment, such as entertainment subscriptions, utility bills, or rent?
