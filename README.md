@@ -75,7 +75,7 @@ Our goal in this phase was to get participants to test out our higher-fidelity, 
 
 Background Questions:
 * How did you go acbout making or receving a payment to someone with whom you share a monthly service or payment, such as entertainment subscriptions, utility bills, or rent?
-* If ypu have used similar Apps to Split, are there any features you would like to have to help manage, automate, or remind you of monthly recurring payments?
+* If you have used similar apps to Split, are there any features you would like to have to help manage, automate, or remind you of monthly recurring payments?
 
 Tasks Conducted:
 * Create a group and add 3 other members to it.
