@@ -11,3 +11,6 @@ The last task we presented the participants with was: "You want to add someone n
 
 ## Feedback Analysis
 There was a lot of great feedback that we extrapolated from the wrap-up questions we asked them. After reviewing some of the answers, we are receiving a general idea that this app idea cannot be expressed to its fullest through a click-through prototype. Many users expected more interaction and app reactiveness which is not exactly the most possible to create in something like Adobe XD. Overall, everyone was very fond of the idea we were trying to execute, in that it would reduce clashes with others over money and reduce social tensions. We also generally received a liking for our layout and flow of screens. This usability evaluation phase allowed us to be aware of areas in which our application might not be the most learnable or familiar. With these areas of concern in mind, we could improve the interfaces of the prototypes that have been influenced by the gathering of user requirements and expectations.
+
+### Usability Test Mock Data
+[Mock Data Spreadsheet](https://docs.google.com/spreadsheets/d/1EHOxV-B875875zayEOGaMpnDXJJ8ZtOY-h0lKJaQe2o/edit?usp=sharing)
