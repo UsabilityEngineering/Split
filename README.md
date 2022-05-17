@@ -13,6 +13,7 @@ Allows users to facilitate the task of splitting bill costs for reoccuring payme
 * [Personas and Scenarios](phase1_gathering/Personas_Scenarios.pdf)
 * [Wireframes](phase2_gathering/Wireframes.pdf)
 * [Prototype](https://xd.adobe.com/view/39886b66-3848-4346-a143-738afced029a-6cdb/?fullscreen&hints=on) - Draft
+* [Prototype](https://xd.adobe.com/view/0a2f5bb6-c746-467d-92b3-8b6a6a61f445-5f7c/?fullscreen&hints=off) - Higher Fidelity
 
 # Phase 1: Requirements Gathering
 
