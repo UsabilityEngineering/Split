@@ -4,9 +4,9 @@ Allows users to facilitate the task of splitting bill costs for reoccuring payme
 
 ## UX Team Members
 
-* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)** - Javier collaborated on the creation of research method questions, the user-research report, the wireframes and the interaction design report.
-* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)** - Marco created the personas and scenarios, collaborated on the user-research report, worked on wireframes and prototype, and interaction design report.
-* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)** - Wataru conducted user interview, collaborated on the user-research report, and worked on wireframes and prototype.
+* **[Javier Santillan](https://usabilityengineering.github.io/ux-portfolio-JavierSatan/)** - Javier collaborated on the creation of research method questions, the user-research report, the wireframes and the interaction design report, created usability test protocol, and conducted usability tests.
+* **[Marco Garcia](https://usabilityengineering.github.io/ux-portfolio-marcogarciamuro/)** - Marco created the personas and scenarios, collaborated on the user-research report, worked on wireframes and prototype, worked on the interaction design report, conducted usability tests, and collaborated on usability test report.
+* **[Wataru Oshima](https://usabilityengineering.github.io/ux-portfolio-Wataru-Oshima-Tokyo/)** - Wataru conducted user interview, collaborated on the user-research report, worked on wireframes and prototype, created usability test tasks, and conducted usability tests.
 
 # User-Centered Design Artifacts
  
@@ -72,6 +72,10 @@ After creating these design artifacts, **we have a firm idea of how we want to c
 ## Executive Summary
 
 Our goal in this phase was to get participants to test out our higher-fidelity, click-through prototype by conducting usability tests. This was done with the intent to further improve our design and app's user experience. We created a usability test protocol and asked the participants that included a couple of tasks on which we observed and noted their process and exprerience with. We then prompted them to give us feedback on their experience of attempting to achieve the tasks. Lastly, we analyzed the usability test results to extrapolate trends and patterns.
+
+Background Questions:
+* How did you go acbout making or receving a payment to someone with whom you share a monthly service or payment, such as entertainment subscriptions, utility bills, or rent?
+* If ypu have used similar Apps to Split, are there any features you would like to have to help manage, automate, or remind you of monthly recurring payments?
 
 Tasks Conducted:
 * Create a group and add 3 other members to it.
