@@ -1,3 +1,5 @@
+## Usability Evaluations
+
 We set out to perform some usability evaluations to get a greater sense of improvements we could make to our interactive prototype. We wanted to make sure that users would be able to pick up the application and not have to struggle in learning or navigating the application to accomplish their desired task. Therefore, after selecting a couple of tasks that we wanted to specifically test, we created a usability test protocol, to administer evaluations. We included a short warming introduction, some background questions to gain a sense of their experience with similar tasks or services, tasks for them to complete, and conclusive questions.
 
 It was important that we learned how they are accustomed to accomplishing the tasks that we are trying to facilitate. This included noting any services they have used, as well as any features they wished those services or apps offered. All of the participants use apps like Venmo, Zelle, or Cashapp to pay or receive recurring payments.
