@@ -71,11 +71,10 @@ After creating these design artifacts, **we have a firm idea of how we want to c
 
 **Executive Summary
 
-Our goal in this phase was to get real people to test out our working User prototype so we can further improve our design. We created a Protocol and asked the participants
-to achieve specific tasks. We then ask the participants how easy or hard it was or what their thoughts on using the prototype as well as thoughts on the product itself.
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+Our goal in this phase was to get participants to test out our higher-fidelity, click-through prototype by conducting usability tests. This was done with the intent to further improve our design and app's user experience. We created a usability test protocol and asked the participants that included a couple of tasks on which we observed and noted their process and exprerience with. We then prompted them to give us feedback on their experience of attempting to achieve the tasks. Lastly, we analyzed the usability test results to extrapolate trends and patterns.
+
+Tasks Conducted:
+* Create a group and add 3 other members to it.
+* Add someone new to an already existing group and individually change the portion of the bill they are responsible for.
 
 [Full phase 3 report](evaluation/)
